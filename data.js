@@ -33,7 +33,7 @@ var APP_DATA = {
           "yaw": -1.2663397638325993,
           "pitch": 0.09067487832332333,
           "rotation": 1.5707963267948966,
-          "target": "0-entry"
+          "target": "1-kitchen"
         },
         {
           "yaw": -0.41331663271416197,
@@ -122,6 +122,12 @@ var APP_DATA = {
           "pitch": 0.265820406495898,
           "rotation": 1.5707963267948966,
           "target": "3-bedroom"
+        },
+        {
+          "yaw": -1.5573158270595098,
+          "pitch": 0.3582755605349739,
+          "rotation": 10.210176124166829,
+          "target": "0-entry"
         }
       ],
       "infoHotspots": []
